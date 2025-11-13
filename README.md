@@ -1,5 +1,5 @@
 # Hi, my name is Dimitar 👋
-**Junior Backend Developer | Python & Flask Enthusiast | Always Learning**
+**Backend Developer | Python & Flask Enthusiast | Always Learning**
 
 💻 **Tech Stack:** Python, Django, Flask, SQL, Git, Docker 
 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/dimitar-zankov-581081379/) | [Email](mailto:dimitarzankovit@gmail.com)
