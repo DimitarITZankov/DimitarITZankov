@@ -20,7 +20,7 @@
 - **[RESTful_API_BlogApp](https://github.com/DimitarITZankov/RESTful_API_BlogApp)** – REST API backend for a blog application (logic only, no front-end).  
   **Tech Stack:** Python, Flask, Flask-RESTful, SQLAlchemy, Migrate, OS
 
-- **[Django_Profiles_API](https://github.com/DimitarITZankov/Django_Profiles_API)** - Backend API for managing user profiles, authentication, and profile feeds using Django REST Framework.
+- **[Django-Profiles-API](https://github.com/DimitarITZankov/Django_Profiles_API)** - Backend API for managing user profiles, authentication, and profile feeds using Django REST Framework.
   **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions
 
 - **[Django-Blog-API](https://github.com/DimitarITZankov/Django-Blog-API)** - REST API backend for a blogging platform with user authentication, posts, and comments.
