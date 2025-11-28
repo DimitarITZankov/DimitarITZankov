@@ -23,8 +23,8 @@
 - **[Django-Profiles-API](https://github.com/DimitarITZankov/Django-Profiles-API)** - Backend API for managing user profiles, authentication, and profile feeds using Django REST Framework.
   **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions
 
-- **[Django-Blog-API](https://github.com/DimitarITZankov/Django-Blog-API)** - REST API backend for a blogging platform with user authentication, posts, and comments.
-  **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions
+- **[D-forum](https://github.com/DimitarITZankov/DZ-forum)** - REST API backend for a forum platform with user authentication, JWT, posts, comments and likes.
+  **Tech Stack:** Python, Django, Django REST Framework, JWT, Permissions
 
 ---
 
