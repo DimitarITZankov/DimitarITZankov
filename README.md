@@ -1,7 +1,7 @@
 # Hi, my name is Dimitar 👋
-**Backend Developer | Python & Flask Enthusiast | Always Learning**
+**Backend Developer | Python & Django Enthusiast | Always Learning**
 
-💻 **Tech Stack:** Python, Django, Flask, SQL, Git, Docker 
+💻 **Tech Stack:** Python, Django, Flask, SQL, Git, Docker ,PostgreSQL, SQLite
 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/dimitar-zankov-581081379/) | [Email](mailto:dimitarzankovit@gmail.com)
 
 ---
@@ -24,7 +24,7 @@
   **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions
 
 - **[DZ-forum](https://github.com/DimitarITZankov/DZ-forum)** - REST API backend for a forum platform with user authentication, JWT, posts, comments and likes.
-  **Tech Stack:** Python, Django, Django REST Framework, JWT, Permissions
+  **Tech Stack:** Python, Django, Docker, Django REST Framework, JWT, Permissions
 
 ---
 
