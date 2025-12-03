@@ -29,5 +29,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Dimitar's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitarITZankov&show_icons=true&hide=stars,issues)
+![Dimitar's GitHub stats]!(https://github-readme-stats.vercel.app/api?username=DimitarITZankov&show_icons=true&theme=tokyonight)
 
