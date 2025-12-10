@@ -25,6 +25,10 @@
 
 - **[DZ-forum](https://github.com/DimitarITZankov/DZ-forum)** - REST API backend for a forum platform with user authentication, JWT, posts, comments and likes.
   **Tech Stack:** Python, Django, Docker, Django REST Framework, JWT, Permissions
+  
+***MAIN PROJECT:***
+- **[RecipeRealms](https://github.com/DimitarITZankov/RecipeRealms)** – Recipe Management App – Backend API for managing users and recipes, including registration, JWT authentication, password reset, and CRUD operations for recipes.
+    **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions, PostgreSQL, Docker
 
 ---
 
