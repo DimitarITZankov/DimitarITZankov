@@ -1,7 +1,7 @@
 # Hi, my name is Dimitar 👋
 **Backend Developer | Python & Django Enthusiast | Always Learning**
 
-💻 **Tech Stack:** Python, Django, Flask, SQL, Git, Docker ,PostgreSQL, SQLite
+💻 **Tech Stack:** Python, Django, Flask, SQL, Git, Docker ,PostgreSQL, SQLite, Linux
 📫 **Contact Me:** [LinkedIn](https://www.linkedin.com/in/dimitar-zankov-581081379/) | [Email](mailto:dimitarzankovit@gmail.com)
 
 ---
