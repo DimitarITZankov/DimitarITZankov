@@ -8,9 +8,6 @@
 
 ### 🚀 Projects
 
-- **[DailyReportAutomation](https://github.com/DimitarITZankov/DailyReportAutomation)** – Automates daily sales report calculations.  
-  **Tech Stack:** Python, Pandas, Logging, OS  
-
 - **[Download-Folder-Organizer](https://github.com/DimitarITZankov/Download-Folder-Organizer)** – Automatically sorts files in the Downloads folder by file type.  
   **Tech Stack:** Python, OS, Shutil, Glob, Logging  
 
