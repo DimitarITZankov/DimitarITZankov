@@ -8,9 +8,6 @@
 
 ### 🚀 Projects
 
-- **[Download-Folder-Organizer](https://github.com/DimitarITZankov/Download-Folder-Organizer)** – Automatically sorts files in the Downloads folder by file type.  
-  **Tech Stack:** Python, OS, Shutil, Glob, Logging  
-
 - **[BlogWebApp](https://github.com/DimitarITZankov/BlogWebApp)** – A full-featured blogging platform built with Flask, including ready-to-use CSS and HTML.  
   **Tech Stack:** Python, Flask, WTForms, SQLAlchemy, Migrate, OS  
 
@@ -26,6 +23,9 @@
 ***MAIN PROJECTS:***
 - **[RecipeRealms](https://github.com/DimitarITZankov/RecipeRealms)** – Recipe Management App – Backend API for managing users and recipes, including registration, JWT authentication, password reset, and CRUD operations for recipes.
     **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions, PostgreSQL, Docker
+  
+- - **[To-Do-API](https://github.com/DimitarITZankov/To-Do-API)** – Task Management Backend API – RESTful API for managing tasks with user authentication, task visibility control, completion workflows, and role-based access.
+    **Tech Stack:** Python, Django, Django REST Framework, JWT Authentication, Permissions, PostgreSQL, Docker
 
 ---
 
