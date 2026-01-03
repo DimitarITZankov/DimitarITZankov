@@ -22,7 +22,7 @@
   
 ***MAIN PROJECTS:***
 - **[RecipeRealms](https://github.com/DimitarITZankov/RecipeRealms)** – Recipe Management App – Backend API for managing users and recipes, including registration, JWT authentication, password reset, and CRUD operations for recipes.
-    **Tech Stack:** Python, Django, Django REST Framework, Token Authentication, Permissions, PostgreSQL, Docker
+    **Tech Stack:** Python, Django, Django REST Framework, JWT Authentication, Permissions, PostgreSQL, Docker
   
 - **[To-Do-API](https://github.com/DimitarITZankov/To-Do-API)** – Task Management Backend API – RESTful API for managing tasks with user authentication, task visibility control, completion workflows, and role-based access.
     **Tech Stack:** Python, Django, Django REST Framework, JWT Authentication, Permissions, PostgreSQL, Docker
