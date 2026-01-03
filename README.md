@@ -30,5 +30,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Dimitar's GitHub stats]!(https://github-readme-stats.vercel.app/api?username=DimitarITZankov&show_icons=true&theme=tokyonight)
+![Dimitar's GitHub stats]!![CI](https://github.com/DimitarITZankov/To-Do-API/actions/workflows/ci.yml/badge.svg)
+
 
